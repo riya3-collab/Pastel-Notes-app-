@@ -1,7 +1,7 @@
 # Pastel-Notes-app-
 # Divaa's Notes - Pastel Aesthetic Edition 🌸
 
-**Live Demo:** [Replit Link ithe tak]
+**Live Demo:** https://riya3-collab.github.io/Pastel-Notes-app-/
 
 ## 🎨 App Screens
 ### 1. Splash Screen
